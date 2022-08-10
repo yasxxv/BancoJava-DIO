@@ -13,7 +13,7 @@ foi implementada a possibilidade de criação de conta no banco, utilizando o no
 
 ### 📅 Data do Projeto:
 
-05 Ago 2022
+03 Ago 2022
  
  ---------------------------
 
